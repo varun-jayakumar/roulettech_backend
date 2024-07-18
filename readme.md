@@ -1,4 +1,4 @@
-# Roulettech_backend
+# Roulettech_backend 🚀
 
 ## Description
 
@@ -37,11 +37,11 @@ For detailed information on the available APIs and their usage, please refer to 
 
 The `deploy.sh` script is used for automating the deployment process of the RouletteCH backend application. It contains the necessary commands and configurations to deploy the application to an EC2 instance. The script includes steps such as copying project files, installing dependencies, building the Docker image, and running the container.
 
-### Dockerfile
+### 🎯 Dockerfile
 
 The `Dockerfile` is the text file that contains the set of instructions for building a Docker image. It specifies the base image, sets up the environment, installs dependencies, and defines the commands to run when the container is started. The Dockerfile is used to create a reproducible and isolated environment for running the RouletteCH backend application.
 
-### Deployment method:
+### 🎯 Deployment method:
 
 <img src="image.png" width="550" height="450">
 
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-(Varun Bharathi Jayakumar)[https://github.com/varun-jayakumar]
+[Varun Bharathi Jayakumar](https://github.com/varun-jayakumar) 👋
