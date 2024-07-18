@@ -2,4 +2,4 @@ venv
 __pycache__
 settings.py
 db.sqlite3
-deploy.sh
+# deploy.sh
