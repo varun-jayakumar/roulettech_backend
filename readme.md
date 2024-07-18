@@ -1,4 +1,4 @@
-# Project Name
+# Roulettech_backend
 
 ## Description
 
@@ -31,8 +31,6 @@ This project is a backend implementation for the RouletteCH application. It prov
 
 For detailed information on the available APIs and their usage, please refer to the [API documentation](openapi.yml).
 
-## Additional details (docker image, EC2 deplyment script)
-
 ## Additional details (docker image, EC2 deployment script)
 
 ### Deploy.sh
@@ -42,6 +40,10 @@ The `deploy.sh` script is used for automating the deployment process of the Roul
 ### Dockerfile
 
 The `Dockerfile` is the text file that contains the set of instructions for building a Docker image. It specifies the base image, sets up the environment, installs dependencies, and defines the commands to run when the container is started. The Dockerfile is used to create a reproducible and isolated environment for running the RouletteCH backend application.
+
+### Deployment method:
+
+<img src="image.png" width="550" height="450">
 
 ## License
 
